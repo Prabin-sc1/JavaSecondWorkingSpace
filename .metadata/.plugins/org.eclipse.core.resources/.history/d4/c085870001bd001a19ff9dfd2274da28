@@ -1,0 +1,11 @@
+
+public class DecimalToBinary {
+
+	public static void main(String[] args) {
+		int number=9/8;
+		double number =9/8;
+		System.out.println(number);
+
+	}
+
+}

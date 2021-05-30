@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class DecimalToBinary {
+
+	public static void main(String[] args) {
+		
+	// Scanner s=new Scanner(System.in);
+	 for(int i=4;i<=86;i=i+9) 
+	System.out.println(i);
+
+	}
+
+}

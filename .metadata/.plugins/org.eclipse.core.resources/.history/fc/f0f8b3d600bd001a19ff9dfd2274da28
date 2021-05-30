@@ -1,0 +1,12 @@
+
+public class DecimalToBinary {
+
+	public static void main(String[] args) {
+		Integer i=Integer.valueOf("111",2);
+		//System.out.println(i);
+	    byte a=	i.byteValue();
+	    System.out.println(a);
+
+	}
+
+}

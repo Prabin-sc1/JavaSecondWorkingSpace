@@ -1,0 +1,12 @@
+
+public class DecimalToBinary {
+
+	public static void main(String[] args) {
+		
+	 double number=(6-8)*(5+3);
+		
+		System.out.println(number);
+
+	}
+
+}

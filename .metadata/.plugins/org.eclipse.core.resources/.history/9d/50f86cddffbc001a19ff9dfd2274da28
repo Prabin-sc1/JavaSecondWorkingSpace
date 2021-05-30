@@ -1,0 +1,12 @@
+
+public class DecimalToBinary {
+
+	public static void main(String[] args) {
+		Integer i=Integer.valueOf("42",10);
+		System.out.println(i);
+	    int a=	i.intValue();
+	   // System.out.println(a);
+
+	}
+
+}
